@@ -1,8 +1,8 @@
-# goit-node-js-hw-01 
-1. "list" https://monosnap.com/file/3r5mpO07XPZGs6rIUYt6zexs8vndqd
-2.  "get" https://monosnap.com/file/aNChjC7UGQT9zOASQleD1ZymGoGqNF 
-3.  "add" https://monosnap.com/file/Wofff9Cp5tS7wclUpiIQxbeE0AJdtr 
-4.  "remove" https://monosnap.com/file/2YepLJz9x3fsBIIKkyRFmMZTRvQJf1
+# goit-node-js-hw-01
+https://monosnap.com/file/aNChjC7UGQT9zOASQleD1ZymGoGqNF
+https://monosnap.com/file/Wofff9Cp5tS7wclUpiIQxbeE0AJdtr
+https://monosnap.com/file/2YepLJz9x3fsBIIKkyRFmMZTRvQJf1
+https://monosnap.com/file/3r5mpO07XPZGs6rIUYt6zexs8vndqd
 
 Крок 1
 Ініціалізуй проєкт за допомогою команди npm init
